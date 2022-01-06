@@ -1,0 +1,7 @@
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\bin\Debug\Ejercicio_5.exe
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\bin\Debug\Ejercicio_5.pdb
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.AssemblyReference.cache
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.SuggestedBindingRedirects.cache
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.CoreCompileInputs.cache
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\obj\Debug\Ejercicio_5.exe
+E:\programacion\cursos-cs\seccion9\Ejercicio 5\obj\Debug\Ejercicio_5.pdb
