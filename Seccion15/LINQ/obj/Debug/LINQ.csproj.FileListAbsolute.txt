@@ -1,0 +1,7 @@
+E:\programacion\cursos-cs\Seccion15\LINQ\bin\Debug\LINQ.exe
+E:\programacion\cursos-cs\Seccion15\LINQ\bin\Debug\LINQ.pdb
+E:\programacion\cursos-cs\Seccion15\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+E:\programacion\cursos-cs\Seccion15\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+E:\programacion\cursos-cs\Seccion15\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+E:\programacion\cursos-cs\Seccion15\LINQ\obj\Debug\LINQ.exe
+E:\programacion\cursos-cs\Seccion15\LINQ\obj\Debug\LINQ.pdb
