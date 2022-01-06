@@ -4,15 +4,14 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{86440E1A-B91B-453B-B02F-8AB0AF321FCF}</ProjectGuid>
+        <ProjectGuid>{C7DAB633-9D65-4DDC-AF3E-D6F2610B7EF7}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Ejercicio1</RootNamespace>
-        <AssemblyName>Ejercicio1</AssemblyName>
+        <RootNamespace>Ejercicio2</RootNamespace>
+        <AssemblyName>Ejercicio2</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-        <LangVersion>latest</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -40,8 +39,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Animal.cs" />
-        <Compile Include="IAnmial.cs" />
+        <Compile Include="gener.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
